@@ -6,6 +6,6 @@ export default async (req: Request, res: Response) => {
 		message: "Not Found",
 		code: "NOTFOUND",
 		valid: false,
-		path: req.url,
+		path: req.originalUrl,
 	} as NotFoundResponse);
 };

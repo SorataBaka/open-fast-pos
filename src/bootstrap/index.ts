@@ -1,11 +1,10 @@
-import "tsconfig-paths/register";
 import express from "express";
-import versionRouter from "@route/baseRouter";
+import baseRouter from "@route/base_router";
 import notfound from "@middleware/notfound";
 import error from "@middleware/error";
 const app = express();
 app.use(express.json());
-app.use("/api", versionRouter);
+app.use(baseRouter);
 app.use(error);
 app.use("*", notfound);
 

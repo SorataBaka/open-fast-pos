@@ -1,4 +1,4 @@
-import {Request, Response} from "express"
+import { Request, Response } from "express";
 import { DefaultResponse } from "@domain/reponse";
 export default (req: Request, res: Response) => {
 	res.status(200).json({
@@ -6,7 +6,7 @@ export default (req: Request, res: Response) => {
 		message: "OK",
 		code: "OK",
 		valid: true,
-		path: req.path,
+		path: req.originalUrl,
 	} as DefaultResponse);
 	return;
 };

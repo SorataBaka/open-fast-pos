@@ -1,6 +1,7 @@
+import { ProductDocument } from "@domain/product";
 import mongoose from "mongoose";
 
-const Product = new mongoose.Schema({
+const Product = new mongoose.Schema<ProductDocument>({
 	product_name: {
 		type: String,
 		required: true,
