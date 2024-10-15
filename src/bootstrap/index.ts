@@ -1,5 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
+import morgan from "morgan";
+import bodyParser from "body-parser";
 import baseRouter from "@route/base_router";
 import notfound from "@middleware/notfound";
 import error from "@middleware/error";
@@ -10,6 +12,9 @@ dotenv.config();
 
 const env = setupEnv();
 const app = express();
+
+app.use(morgan("dev"));
+app.use(bodyParser.json());
 app.use(express.json());
 app.use(baseRouter);
 app.use(error);

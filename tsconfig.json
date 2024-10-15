@@ -29,7 +29,9 @@
 			"@middleware/*": ["./api/middlewares/*"],
 			"@route/*": ["./api/routes/*"],
 			"@bootstrap/*": ["./bootstrap/*"],
-			"@domain/*": ["./domains/*"]
+			"@domain/*": ["./domains/*"],
+			"@db/*": ["./db/*"],
+			"@lib/*": ["./lib/*"]
 		},
 		// "rootDirs": [],
 		// "typeRoots": [],
