@@ -18,7 +18,7 @@ const schema = joi.object({
 export default async (req: Request, res: Response, next: NextFunction) => {
 	try {
 		const reqBody = schema.validate(req.body);
-		if (reqBody.error) throw reqBody.error;
+		if (reqBody.error !== undefined) throw reqBody.error;
 		const user = reqBody.value as UserRegister;
 
 		//Check if user exists

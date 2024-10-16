@@ -7,6 +7,7 @@ export default async (
 	//eslint-disable-next-line
 	_next: NextFunction
 ) => {
+	console.error(error);
 	if (!error) {
 		res.status(400).json({
 			status: 400,
@@ -19,9 +20,10 @@ export default async (
 	}
 	res.status(400).json({
 		status: 400,
-		message: "Request Invalid",
+		message: error.message,
 		code: "INVALIDREQUEST",
 		valid: false,
-		error,
-	} as InvalidResponse<Error>);
+		error: null,
+	} as InvalidResponse<null>);
+	return;
 };

@@ -1,3 +1,4 @@
+import { Document } from "mongoose";
 export interface User {
 	username: string;
 	password_hash: string;
@@ -7,5 +8,5 @@ export interface UserRegister {
 	username: string;
 	password: string;
 }
-//eslint-disable-next-line
-export interface UserDocument extends User {}
+
+export interface UserDocument extends Document, User {}

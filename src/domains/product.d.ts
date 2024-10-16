@@ -1,3 +1,4 @@
+import { Document } from "mongoose";
 export interface Product {
 	product_name: string;
 	description: ?string;
@@ -8,7 +9,5 @@ export interface Product {
 	updated_at: Date;
 	deleted_at: ?Date;
 }
-//eslint-disable-next-line
-export interface ProductDocument extends Product {}
 
-
+export interface ProductDocument extends Product, Document {}
