@@ -10,4 +10,12 @@ export interface Product {
 	deleted_at: ?Date;
 }
 
+export interface NewProduct {
+	product_name: string;
+	description: ?string;
+	product_price: number;
+	product_cost: number;
+	product_tag: number[];
+}
+
 export interface ProductDocument extends Product, Document {}
