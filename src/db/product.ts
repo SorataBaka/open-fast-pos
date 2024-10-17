@@ -1,11 +1,10 @@
 import { ProductDocument } from "@domain/product";
 import mongoose from "mongoose";
 
-const Product = new mongoose.Schema<ProductDocument>({
+const ProductSchema = new mongoose.Schema<ProductDocument>({
 	product_name: {
 		type: String,
 		required: true,
-		unique: true,
 		trim: true,
 	},
 	description: {
@@ -37,5 +36,5 @@ const Product = new mongoose.Schema<ProductDocument>({
 		type: Date,
 	},
 });
-
-export default mongoose.model("products", Product);
+export { ProductSchema };
+export default mongoose.model("products", ProductSchema);

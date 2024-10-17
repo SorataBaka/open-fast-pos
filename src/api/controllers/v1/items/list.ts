@@ -12,7 +12,7 @@ interface EditQuery {
 
 const validateQuery = joi.object({
 	sort: joi.string().valid("desc", "asc").default("desc"),
-	limit: joi.number().min(0).default(0),
+	limit: joi.number().min(0).max(20).default(10),
 	page: joi.number().min(0).default(0),
 });
 

@@ -17,6 +17,12 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 		const validation = ValidateBody.validate(req.body);
 		if (validation.error) throw validation.error;
 		const productData = validation.value as NewProduct;
+
+		const validateExist = await ProductSchema.exists({
+			product_name: productData.product_name,
+		});
+		if (validateExist) throw new Error("Product already exists.");
+
 		const newItem = new ProductSchema({
 			product_name: productData.product_name,
 			description: productData.description,
