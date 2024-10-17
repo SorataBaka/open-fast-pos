@@ -57,10 +57,7 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 			created_at: new Date(),
 			total: priceTotal,
 		});
-		const save = await newOrder.save().catch((err) => {
-			console.error(err);
-			return null;
-		});
+		const save = await newOrder.save();
 
 		res.status(200).json({
 			status: 200,

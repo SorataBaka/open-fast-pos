@@ -11,6 +11,6 @@ orderRouter.use(auth);
 orderRouter.all("/", _default);
 orderRouter.post("/create", create_order);
 orderRouter.get("/list", list_order);
-orderRouter.delete("/delete", delete_order);
+orderRouter.delete("/delete/:query", delete_order);
 
 export default orderRouter;
