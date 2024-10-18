@@ -22,3 +22,7 @@ export interface NewOrder {
 	item_name: string;
 	item_amount: number;
 }
+
+export interface PayOrder {
+	amount: number;
+}

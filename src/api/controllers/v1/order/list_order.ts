@@ -25,10 +25,10 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 		let queryOptions;
 		switch (query.type) {
 			case "prep":
-				queryOptions = { prep_done: null };
+				queryOptions = { prep_done: null, serve_done: null };
 				break;
 			case "serve":
-				queryOptions = { serve_done: null };
+				queryOptions = { prep_done: { $ne: null }, serve_done: null };
 				break;
 			default:
 				queryOptions = {};

@@ -2,21 +2,39 @@ import { OKResponse } from "@domain/reponse";
 import { Request, Response, NextFunction } from "express";
 import { isValidObjectId } from "mongoose";
 import OrderModel from "@db/order";
-import { OrderDocument } from "@domain/order";
+import { OrderDocument, PayOrder } from "@domain/order";
+import joi from "joi";
+
+const bodyValidator = joi.object({
+	amount: joi.number().min(0).required(),
+});
 
 export default async (req: Request, res: Response, next: NextFunction) => {
 	try {
 		const param = req.params.query;
+		const requestBody = req.body;
+
+		const validateBody = bodyValidator.validate(requestBody);
+		if (validateBody.error) throw validateBody.error;
+		const body = validateBody.value as PayOrder;
+
 		let queryOptions;
 		if (isValidObjectId(param)) {
-			queryOptions = { _id: param, prep_done: null };
+			queryOptions = {
+				_id: param,
+				paid_done: null,
+			};
 		} else {
-			queryOptions = { order_number: param, prep_done: null };
+			queryOptions = {
+				order_number: param,
+				paid_done: null,
+			};
 		}
 		const updateResult = await OrderModel.findOneAndUpdate(
 			queryOptions,
 			{
-				prep_done: new Date(),
+				receive: body.amount,
+				paid_done: new Date(),
 			},
 			{ upsert: false, new: false }
 		);
