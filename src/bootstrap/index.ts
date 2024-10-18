@@ -18,9 +18,7 @@ app.use(morgan("dev"));
 app.use(
 	cors({
 		credentials: true,
-		origin(requestOrigin, callback) {
-			callback(null, requestOrigin);
-		},
+		origin: ["http://localhost:3000", "*"],
 	})
 );
 app.use(bodyParser.json());
