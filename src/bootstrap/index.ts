@@ -15,20 +15,18 @@ const env = setupEnv();
 const app = express();
 
 app.use(morgan("dev"));
+app.use(bodyParser.json());
+app.use(express.json());
 app.use(
 	cors({
 		credentials: true,
-
-		origin: "http://localhost:3000",
+		origin: ["http://localhost:3001", "http://localhost:3000"],
 	})
 );
-app.use(bodyParser.json());
-app.use(express.json());
 app.use(baseRouter);
 app.use(error);
 app.use("*", notfound);
 
 app.listen(env.PORT, async () => {
 	await setupDb(env);
-	console.log("Listening on port 3000");
 });
