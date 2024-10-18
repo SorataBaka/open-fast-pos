@@ -7,6 +7,7 @@ import notfound from "@middleware/notfound";
 import error from "@middleware/error";
 import setupEnv from "@bootstrap/env";
 import setupDb from "@bootstrap/db";
+import cors from "cors";
 
 dotenv.config();
 
@@ -14,6 +15,14 @@ const env = setupEnv();
 const app = express();
 
 app.use(morgan("dev"));
+app.use(
+	cors({
+		credentials: true,
+		origin(requestOrigin, callback) {
+			callback(null, requestOrigin);
+		},
+	})
+);
 app.use(bodyParser.json());
 app.use(express.json());
 app.use(baseRouter);
