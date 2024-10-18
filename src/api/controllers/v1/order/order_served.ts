@@ -3,6 +3,7 @@ import { Request, Response, NextFunction } from "express";
 import { isValidObjectId } from "mongoose";
 import OrderModel from "@db/order";
 import { OrderDocument } from "@domain/order";
+import socket from "@bootstrap/index";
 
 export default async (req: Request, res: Response, next: NextFunction) => {
 	try {
@@ -28,6 +29,7 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 			{ upsert: false, new: false }
 		);
 		if (updateResult === null) throw new Error("Order not found");
+		socket.emit("message", "none");
 
 		res.status(200).json({
 			status: 200,

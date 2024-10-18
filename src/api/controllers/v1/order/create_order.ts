@@ -5,6 +5,7 @@ import { NewOrder, OrderDocument, OrderItem } from "@domain/order";
 import ProductSchema from "@db/product";
 import OrderSchema from "@db/order";
 import { Document } from "mongoose";
+import socket from "@bootstrap/index";
 
 const validateBody = joi
 	.array()
@@ -58,6 +59,7 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 			total: priceTotal,
 		});
 		const save = await newOrder.save();
+		socket.emit("message", "i miss you");
 
 		res.status(200).json({
 			status: 200,
