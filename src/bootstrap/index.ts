@@ -8,11 +8,26 @@ import error from "@middleware/error";
 import setupEnv from "@bootstrap/env";
 import setupDb from "@bootstrap/db";
 import cors from "cors";
+import http from "http";
+import { Server } from "socket.io";
 
 dotenv.config();
 
 const env = setupEnv();
 const app = express();
+
+const server = http.createServer(app);
+
+const io = new Server(server, {
+	cors: {
+		origin: [
+			"http://localhost:3001",
+			"http://localhost:3000",
+			"https://frontpos.tianharjuno.com",
+		],
+		credentials: true,
+	},
+});
 
 app.use(morgan("dev"));
 app.use(bodyParser.json());
@@ -31,6 +46,7 @@ app.use(baseRouter);
 app.use(error);
 app.use("*", notfound);
 
-app.listen(env.PORT, async () => {
+server.listen(env.PORT, async () => {
 	await setupDb(env);
 });
+export default io;
