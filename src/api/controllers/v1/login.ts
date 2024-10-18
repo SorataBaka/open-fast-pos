@@ -16,28 +16,28 @@ const schema = joi.object({
 });
 
 export default async (req: Request, res: Response, next: NextFunction) => {
-	const validateBody = schema.validate(req.body);
-	if (validateBody.error != undefined) {
-		throw validateBody.error;
-	}
-	const userCredential = validateBody.value as UserRegister;
-	const queryUser = await UserSchema.findOne({
-		username: userCredential.username,
-	});
-	if (queryUser === null) {
-		throw new Error("User not found");
-	}
-	const credentialValid = await Compare(
-		userCredential.password,
-		queryUser.password_hash
-	);
-	if (!credentialValid) {
-		throw new Error("Invalid credentials");
-	}
-
-	const jwtString = await GenerateJwt(queryUser);
-
 	try {
+		const validateBody = schema.validate(req.body);
+		if (validateBody.error != undefined) {
+			throw validateBody.error;
+		}
+		const userCredential = validateBody.value as UserRegister;
+
+		const queryUser = await UserSchema.findOne({
+			username: userCredential.username,
+		});
+		if (queryUser === null) {
+			throw new Error("User not found");
+		}
+		const credentialValid = await Compare(
+			userCredential.password,
+			queryUser.password_hash
+		);
+		if (!credentialValid) {
+			throw new Error("Invalid credentials");
+		}
+
+		const jwtString = await GenerateJwt(queryUser);
 		res.status(200).json({
 			status: 200,
 			message: "OK",
