@@ -11,18 +11,12 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 		if (isValidObjectId(param)) {
 			queryOptions = {
 				_id: param,
-				prep_done: {
-					$ne: null,
-				},
 				serve_done: null,
 			};
 			//Gotta edit this to make sure cant edit if its not dont preparing
 		} else {
 			queryOptions = {
 				order_number: param,
-				prep_done: {
-					$ne: null,
-				},
 				serve_done: null,
 			};
 		}
