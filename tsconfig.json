@@ -1,13 +1,13 @@
 {
 	"compilerOptions": {
-		"incremental": true,
+		"incremental": false,
 		// "composite": true,
 		// "tsBuildInfoFile": "./.tsbuildinfo",
 		// "disableSourceOfProjectReferenceRedirect": true,
 		// "disableSolutionSearching": true,
 		// "disableReferencedProjectLoad": true,
 
-		"target": "ES6",
+		"target": "ESNext",
 		// "lib": [],
 		// "jsx": "preserve",
 		// "experimentalDecorators": true,
@@ -19,19 +19,17 @@
 		// "noLib": true,
 		// "useDefineForClassFields": true,
 		// "moduleDetection": "auto",
-
 		"module": "commonjs",
-		"rootDir": "./src",
-		"moduleResolution": "node10",
-		"baseUrl": "src",
+		"rootDir": ".",
+		"baseUrl": ".",
 		"paths": {
-			"@controller/*": ["./api/controllers/*"],
-			"@middleware/*": ["./api/middlewares/*"],
-			"@route/*": ["./api/routes/*"],
-			"@bootstrap/*": ["./bootstrap/*"],
-			"@domain/*": ["./domains/*"],
-			"@db/*": ["./db/*"],
-			"@lib/*": ["./lib/*"]
+			"@controller/*": ["src/api/controllers/*"],
+			"@middleware/*": ["src/api/middlewares/*"],
+			"@route/*": ["src/api/routes/*"],
+			"@bootstrap/*": ["src/bootstrap/*"],
+			"@domain/*": ["src/domains/*"],
+			"@db/*": ["src/db/*"],
+			"@lib/*": ["src/lib/*"]
 		},
 		// "rootDirs": [],
 		// "typeRoots": [],
@@ -105,6 +103,6 @@
 		// "skipDefaultLibCheck": true,
 		"skipLibCheck": true
 	},
-	"include": ["src"],
-	"exclude": ["node_modules", "build"]
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules/", "build/"]
 }

@@ -1,0 +1,5 @@
+/build
+/node_modules
+eslint.config.mjs
+nodemon.json
+tsconfig.tsbuildinfo
