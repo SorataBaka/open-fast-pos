@@ -5,17 +5,17 @@ import OrderModel from "@db/order";
 import { OrderDocument } from "@domain/order";
 
 interface Query {
-	type: "prep" | "serve" | "all";
+	type: "prep" | "serve" | "all" | "done";
 	limit: number;
 	page: number;
 }
 
 const QueryObject = Joi.object({
-	type: Joi.string().valid("prep", "serve", "all").default("all"),
+	type: Joi.string().valid("prep", "serve", "all", "done").default("all"),
 	limit: Joi.number().min(0).max(20).default(10),
 	page: Joi.number().min(0).default(0),
 });
-
+// MAYBE CHANGE THIS. TOO MANY COMBINATIONS
 export default async (req: Request, res: Response, next: NextFunction) => {
 	try {
 		const requestQueries = req.query;
@@ -29,6 +29,9 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 				break;
 			case "serve":
 				queryOptions = { prep_done: { $ne: null }, serve_done: null };
+				break;
+			case "done":
+				queryOptions = { prep_done: { $ne: null }, serve_done: { $ne: null } };
 				break;
 			default:
 				queryOptions = {};

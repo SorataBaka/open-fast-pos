@@ -30,6 +30,11 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 				paid_done: null,
 			};
 		}
+
+		const validateAmountQuery = await OrderModel.findOne(queryOptions);
+		if (validateAmountQuery === null) throw new Error("Order not found");
+		if (validateAmountQuery.total > body.amount)
+			throw new Error("Amount is smaller than order price total");
 		const updateResult = await OrderModel.findOneAndUpdate(
 			queryOptions,
 			{
