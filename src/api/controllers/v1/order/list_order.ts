@@ -38,7 +38,7 @@ export default async (req: Request, res: Response, next: NextFunction) => {
 		}
 		const orderResult = await OrderModel.find(queryOptions)
 			.sort({
-				create_at: "desc",
+				order_number: "ascending",
 			})
 			.skip(query.limit * query.page)
 			.limit(query.limit);
