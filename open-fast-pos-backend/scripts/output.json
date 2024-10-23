@@ -1,0 +1,5210 @@
+[
+	{
+		"_id": "67131459f5dee9aaf60baf74",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131459f5dee9aaf60baf75"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:21:39.607Z",
+		"created_at": "2024-10-19T02:07:21.083Z",
+		"order_number": 53,
+		"__v": 0
+	},
+	{
+		"_id": "671314a3f5dee9aaf60baf81",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671314a3f5dee9aaf60baf82"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:21:41.715Z",
+		"created_at": "2024-10-19T02:08:35.660Z",
+		"order_number": 54,
+		"__v": 0
+	},
+	{
+		"_id": "671314c3f5dee9aaf60baf90",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671314c3f5dee9aaf60baf91"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:21:43.496Z",
+		"created_at": "2024-10-19T02:09:07.252Z",
+		"order_number": 55,
+		"__v": 0
+	},
+	{
+		"_id": "671314e8f5dee9aaf60bafa1",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671314e8f5dee9aaf60bafa2"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:21:52.207Z",
+		"created_at": "2024-10-19T02:09:44.423Z",
+		"order_number": 56,
+		"__v": 0
+	},
+	{
+		"_id": "67131506f5dee9aaf60bafb4",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131506f5dee9aaf60bafb5"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:26:47.073Z",
+		"created_at": "2024-10-19T02:10:14.821Z",
+		"order_number": 57,
+		"__v": 0
+	},
+	{
+		"_id": "6713151cf5dee9aaf60bafc9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713151cf5dee9aaf60bafca"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:28:02.010Z",
+		"created_at": "2024-10-19T02:10:36.443Z",
+		"order_number": 58,
+		"__v": 0
+	},
+	{
+		"_id": "671315b5f5dee9aaf60bafe0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671315b5f5dee9aaf60bafe1"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:28:06.113Z",
+		"created_at": "2024-10-19T02:13:09.637Z",
+		"order_number": 59,
+		"__v": 0
+	},
+	{
+		"_id": "671315b6f5dee9aaf60bafe7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671315b6f5dee9aaf60bafe8"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:33:55.546Z",
+		"created_at": "2024-10-19T02:13:10.181Z",
+		"order_number": 60,
+		"__v": 0
+	},
+	{
+		"_id": "671315d3f5dee9aaf60bb016",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:43.206Z",
+					"updated_at": "2024-10-19T01:51:43.206Z",
+					"deleted_at": null,
+					"_id": "671310aff5dee9aaf60baed4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671315d3f5dee9aaf60bb017"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:14:58.292Z",
+		"created_at": "2024-10-19T02:13:39.664Z",
+		"order_number": 61,
+		"__v": 0
+	},
+	{
+		"_id": "671315f6f5dee9aaf60bb033",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671315f6f5dee9aaf60bb034"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:33:59.592Z",
+		"created_at": "2024-10-19T02:14:14.624Z",
+		"order_number": 62,
+		"__v": 0
+	},
+	{
+		"_id": "671315f7f5dee9aaf60bb03a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671315f7f5dee9aaf60bb03b"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:34:12.849Z",
+		"created_at": "2024-10-19T02:14:15.258Z",
+		"order_number": 63,
+		"__v": 0
+	},
+	{
+		"_id": "67131600f5dee9aaf60bb071",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131600f5dee9aaf60bb072"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:34:19.367Z",
+		"created_at": "2024-10-19T02:14:24.385Z",
+		"order_number": 64,
+		"__v": 0
+	},
+	{
+		"_id": "67131620f5dee9aaf60bb090",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131620f5dee9aaf60bb091"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:36:16.869Z",
+		"created_at": "2024-10-19T02:14:56.023Z",
+		"order_number": 65,
+		"__v": 0
+	},
+	{
+		"_id": "67131703f5dee9aaf60bb0d6",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67131703f5dee9aaf60bb0d7"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:36:18.882Z",
+		"created_at": "2024-10-19T02:18:43.360Z",
+		"order_number": 66,
+		"__v": 0
+	},
+	{
+		"_id": "671317f40ee1e672854910cb",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671317f40ee1e672854910cc"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:38:47.397Z",
+		"created_at": "2024-10-19T02:22:44.146Z",
+		"order_number": 68,
+		"__v": 0
+	},
+	{
+		"_id": "671318110ee1e6728549111a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671318110ee1e6728549111b"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:40:10.936Z",
+		"created_at": "2024-10-19T02:23:13.732Z",
+		"order_number": 69,
+		"__v": 0
+	},
+	{
+		"_id": "671318300ee1e67285491145",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671318300ee1e67285491146"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:42:14.964Z",
+		"created_at": "2024-10-19T02:23:44.413Z",
+		"order_number": 70,
+		"__v": 0
+	},
+	{
+		"_id": "67131a2e0ee1e672854911e5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131a2e0ee1e672854911e6"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:44:25.929Z",
+		"created_at": "2024-10-19T02:32:14.493Z",
+		"order_number": 71,
+		"__v": 0
+	},
+	{
+		"_id": "67131a480ee1e67285491210",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131a480ee1e67285491211"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:44:44.970Z",
+		"created_at": "2024-10-19T02:32:40.688Z",
+		"order_number": 72,
+		"__v": 0
+	},
+	{
+		"_id": "67131a5c0ee1e6728549123b",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131a5c0ee1e6728549123c"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:44:47.026Z",
+		"created_at": "2024-10-19T02:33:00.448Z",
+		"order_number": 73,
+		"__v": 0
+	},
+	{
+		"_id": "67131bb30ee1e67285491359",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131bb30ee1e6728549135a"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131bb30ee1e6728549135c"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131bb30ee1e6728549135e"
+			}
+		],
+		"total": 900,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:48:23.293Z",
+		"created_at": "2024-10-19T02:38:43.496Z",
+		"order_number": 74,
+		"__v": 0
+	},
+	{
+		"_id": "67131bf70ee1e672854913a6",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131bf70ee1e672854913a7"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:49:41.547Z",
+		"created_at": "2024-10-19T02:39:51.906Z",
+		"order_number": 75,
+		"__v": 0
+	},
+	{
+		"_id": "67131c250ee1e672854913ef",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131c250ee1e672854913f0"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:50:44.108Z",
+		"created_at": "2024-10-19T02:40:37.375Z",
+		"order_number": 76,
+		"__v": 0
+	},
+	{
+		"_id": "67131d350ee1e67285491489",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131d350ee1e6728549148a"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:51:21.877Z",
+		"created_at": "2024-10-19T02:45:09.275Z",
+		"order_number": 77,
+		"__v": 0
+	},
+	{
+		"_id": "67131e080ee1e672854914bc",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131e080ee1e672854914bd"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:52:06.942Z",
+		"created_at": "2024-10-19T02:48:40.900Z",
+		"order_number": 78,
+		"__v": 0
+	},
+	{
+		"_id": "67131e2d0ee1e672854914da",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131e2d0ee1e672854914db"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:52:55.988Z",
+		"created_at": "2024-10-19T02:49:17.877Z",
+		"order_number": 79,
+		"__v": 0
+	},
+	{
+		"_id": "67131e410ee1e672854914f9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131e410ee1e672854914fa"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:53:07.143Z",
+		"created_at": "2024-10-19T02:49:37.830Z",
+		"order_number": 80,
+		"__v": 0
+	},
+	{
+		"_id": "67131eae0ee1e67285491563",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67131eae0ee1e67285491564"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:57:28.985Z",
+		"created_at": "2024-10-19T02:51:26.211Z",
+		"order_number": 81,
+		"__v": 0
+	},
+	{
+		"_id": "67131efd0ee1e67285491592",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131efd0ee1e67285491593"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131efd0ee1e67285491595"
+			}
+		],
+		"total": 550,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T02:59:41.074Z",
+		"created_at": "2024-10-19T02:52:45.728Z",
+		"order_number": 82,
+		"__v": 0
+	},
+	{
+		"_id": "67131f3c0ee1e672854915d7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131f3c0ee1e672854915d8"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:01:31.113Z",
+		"created_at": "2024-10-19T02:53:48.399Z",
+		"order_number": 83,
+		"__v": 0
+	},
+	{
+		"_id": "67131f4a0ee1e672854915f0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131f4a0ee1e672854915f1"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:01:54.307Z",
+		"created_at": "2024-10-19T02:54:02.119Z",
+		"order_number": 84,
+		"__v": 0
+	},
+	{
+		"_id": "67131f6d0ee1e6728549160c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67131f6d0ee1e6728549160d"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:04:10.737Z",
+		"created_at": "2024-10-19T02:54:37.160Z",
+		"order_number": 85,
+		"__v": 0
+	},
+	{
+		"_id": "67131fc00ee1e6728549162b",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67131fc00ee1e6728549162c"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:05:22.688Z",
+		"created_at": "2024-10-19T02:56:00.599Z",
+		"order_number": 86,
+		"__v": 0
+	},
+	{
+		"_id": "671320d20ee1e6728549167e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671320d20ee1e6728549167f"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:06:11.535Z",
+		"created_at": "2024-10-19T03:00:34.125Z",
+		"order_number": 87,
+		"__v": 0
+	},
+	{
+		"_id": "671320ea0ee1e6728549169a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671320ea0ee1e6728549169b"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:06:20.636Z",
+		"created_at": "2024-10-19T03:00:58.572Z",
+		"order_number": 88,
+		"__v": 0
+	},
+	{
+		"_id": "671321050ee1e672854916b9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671321050ee1e672854916ba"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:06:25.314Z",
+		"created_at": "2024-10-19T03:01:25.518Z",
+		"order_number": 89,
+		"__v": 0
+	},
+	{
+		"_id": "6713211d0ee1e672854916f6",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "6713211d0ee1e672854916f7"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:13:43.161Z",
+		"created_at": "2024-10-19T03:01:49.351Z",
+		"order_number": 90,
+		"__v": 0
+	},
+	{
+		"_id": "671321480ee1e67285491733",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671321480ee1e67285491734"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:14:00.068Z",
+		"created_at": "2024-10-19T03:02:32.174Z",
+		"order_number": 91,
+		"__v": 0
+	},
+	{
+		"_id": "671321a80ee1e67285491755",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671321a80ee1e67285491756"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671321a80ee1e67285491758"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:15:49.888Z",
+		"created_at": "2024-10-19T03:04:08.503Z",
+		"order_number": 92,
+		"__v": 0
+	},
+	{
+		"_id": "671321fb0ee1e672854917be",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671321fb0ee1e672854917bf"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:16:03.450Z",
+		"created_at": "2024-10-19T03:05:31.984Z",
+		"order_number": 93,
+		"__v": 0
+	},
+	{
+		"_id": "671322190ee1e672854917e3",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671322190ee1e672854917e4"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:17:12.322Z",
+		"created_at": "2024-10-19T03:06:01.068Z",
+		"order_number": 94,
+		"__v": 0
+	},
+	{
+		"_id": "6713227f0ee1e67285491867",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713227f0ee1e67285491868"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:21:36.508Z",
+		"created_at": "2024-10-19T03:07:43.951Z",
+		"order_number": 95,
+		"__v": 0
+	},
+	{
+		"_id": "671322a90ee1e67285491889",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671322a90ee1e6728549188a"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:21:51.442Z",
+		"created_at": "2024-10-19T03:08:25.663Z",
+		"order_number": 96,
+		"__v": 0
+	},
+	{
+		"_id": "671323f40ee1e672854918cc",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671323f40ee1e672854918cd"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:22:14.475Z",
+		"created_at": "2024-10-19T03:13:56.147Z",
+		"order_number": 97,
+		"__v": 0
+	},
+	{
+		"_id": "671324060ee1e6728549190f",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671324060ee1e67285491910"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:22:17.254Z",
+		"created_at": "2024-10-19T03:14:14.532Z",
+		"order_number": 98,
+		"__v": 0
+	},
+	{
+		"_id": "671324780ee1e67285491968",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671324780ee1e67285491969"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:22:28.045Z",
+		"created_at": "2024-10-19T03:16:08.097Z",
+		"order_number": 99,
+		"__v": 0
+	},
+	{
+		"_id": "671324860ee1e67285491987",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671324860ee1e67285491988"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:22:33.166Z",
+		"created_at": "2024-10-19T03:16:22.128Z",
+		"order_number": 100,
+		"__v": 0
+	},
+	{
+		"_id": "671325760ee1e672854919c4",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671325760ee1e672854919c5"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:24:09.536Z",
+		"created_at": "2024-10-19T03:20:22.407Z",
+		"order_number": 101,
+		"__v": 0
+	},
+	{
+		"_id": "671326010ee1e67285491a5b",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671326010ee1e67285491a5c"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671326010ee1e67285491a5e"
+			}
+		],
+		"total": 1050,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:31:16.175Z",
+		"created_at": "2024-10-19T03:22:41.726Z",
+		"order_number": 102,
+		"__v": 0
+	},
+	{
+		"_id": "6713263a0ee1e67285491a73",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713263a0ee1e67285491a74"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:31:21.623Z",
+		"created_at": "2024-10-19T03:23:38.864Z",
+		"order_number": 103,
+		"__v": 0
+	},
+	{
+		"_id": "671326be0ee1e67285491a9e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671326be0ee1e67285491a9f"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671326be0ee1e67285491aa1"
+			}
+		],
+		"total": 550,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:31:39.041Z",
+		"created_at": "2024-10-19T03:25:50.818Z",
+		"order_number": 104,
+		"__v": 0
+	},
+	{
+		"_id": "671326e50ee1e67285491abc",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671326e50ee1e67285491abd"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:31:57.466Z",
+		"created_at": "2024-10-19T03:26:29.067Z",
+		"order_number": 105,
+		"__v": 0
+	},
+	{
+		"_id": "671326fa0ee1e67285491adb",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671326fa0ee1e67285491adc"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:33:37.725Z",
+		"created_at": "2024-10-19T03:26:50.379Z",
+		"order_number": 106,
+		"__v": 0
+	},
+	{
+		"_id": "6713271e0ee1e67285491afd",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713271e0ee1e67285491afe"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713271e0ee1e67285491b00"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713271e0ee1e67285491b02"
+			}
+		],
+		"total": 600,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:34:13.044Z",
+		"created_at": "2024-10-19T03:27:26.853Z",
+		"order_number": 107,
+		"__v": 0
+	},
+	{
+		"_id": "6713273f0ee1e67285491b2c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713273f0ee1e67285491b2d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:34:26.258Z",
+		"created_at": "2024-10-19T03:27:59.678Z",
+		"order_number": 108,
+		"__v": 0
+	},
+	{
+		"_id": "671327c30ee1e67285491b5a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671327c30ee1e67285491b5b"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:34:58.205Z",
+		"created_at": "2024-10-19T03:30:11.578Z",
+		"order_number": 109,
+		"__v": 0
+	},
+	{
+		"_id": "671327fd0ee1e67285491b8b",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671327fd0ee1e67285491b8c"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:35:22.964Z",
+		"created_at": "2024-10-19T03:31:09.857Z",
+		"order_number": 110,
+		"__v": 0
+	},
+	{
+		"_id": "6713281d0ee1e67285491c33",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713281d0ee1e67285491c34"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:35:40.365Z",
+		"created_at": "2024-10-19T03:31:41.163Z",
+		"order_number": 111,
+		"__v": 0
+	},
+	{
+		"_id": "671328340ee1e67285491c7c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328340ee1e67285491c7d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:36:27.346Z",
+		"created_at": "2024-10-19T03:32:04.529Z",
+		"order_number": 112,
+		"__v": 0
+	},
+	{
+		"_id": "671328650ee1e67285491ca4",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328650ee1e67285491ca5"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328650ee1e67285491ca7"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:38:49.932Z",
+		"created_at": "2024-10-19T03:32:53.346Z",
+		"order_number": 113,
+		"__v": 0
+	},
+	{
+		"_id": "671328860ee1e67285491cd4",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671328860ee1e67285491cd5"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:39:34.551Z",
+		"created_at": "2024-10-19T03:33:26.135Z",
+		"order_number": 114,
+		"__v": 0
+	},
+	{
+		"_id": "671328de0ee1e67285491d70",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328de0ee1e67285491d71"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328de0ee1e67285491d73"
+			}
+		],
+		"total": 550,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:44:37.389Z",
+		"created_at": "2024-10-19T03:34:54.305Z",
+		"order_number": 115,
+		"__v": 0
+	},
+	{
+		"_id": "671328fd0ee1e67285491dd9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671328fd0ee1e67285491dda"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:44:46.150Z",
+		"created_at": "2024-10-19T03:35:25.995Z",
+		"order_number": 116,
+		"__v": 0
+	},
+	{
+		"_id": "6713291b0ee1e67285491e1c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713291b0ee1e67285491e1d"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:45:33.244Z",
+		"created_at": "2024-10-19T03:35:55.140Z",
+		"order_number": 117,
+		"__v": 0
+	},
+	{
+		"_id": "671329b20ee1e67285491e5f",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671329b20ee1e67285491e60"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:48:39.801Z",
+		"created_at": "2024-10-19T03:38:26.373Z",
+		"order_number": 118,
+		"__v": 0
+	},
+	{
+		"_id": "67132a120ee1e67285491eb8",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132a120ee1e67285491eb9"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:48:58.912Z",
+		"created_at": "2024-10-19T03:40:02.603Z",
+		"order_number": 119,
+		"__v": 0
+	},
+	{
+		"_id": "67132a3d0ee1e67285491ed7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132a3d0ee1e67285491ed8"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:49:06.077Z",
+		"created_at": "2024-10-19T03:40:45.434Z",
+		"order_number": 120,
+		"__v": 0
+	},
+	{
+		"_id": "67132a700ee1e67285491ef9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132a700ee1e67285491efa"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132a700ee1e67285491efc"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:49:55.045Z",
+		"created_at": "2024-10-19T03:41:36.324Z",
+		"order_number": 121,
+		"__v": 0
+	},
+	{
+		"_id": "67132ad40ee1e67285491f23",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132ad40ee1e67285491f24"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:50:29.641Z",
+		"created_at": "2024-10-19T03:43:16.475Z",
+		"order_number": 122,
+		"__v": 0
+	},
+	{
+		"_id": "67132b070ee1e67285491f4e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132b070ee1e67285491f4f"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:50:44.793Z",
+		"created_at": "2024-10-19T03:44:07.353Z",
+		"order_number": 123,
+		"__v": 0
+	},
+	{
+		"_id": "67132b5b0ee1e67285491fc2",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132b5b0ee1e67285491fc3"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:55:15.023Z",
+		"created_at": "2024-10-19T03:45:31.857Z",
+		"order_number": 124,
+		"__v": 0
+	},
+	{
+		"_id": "67132b830ee1e6728549200a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67132b830ee1e6728549200b"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:55:18.981Z",
+		"created_at": "2024-10-19T03:46:11.171Z",
+		"order_number": 125,
+		"__v": 0
+	},
+	{
+		"_id": "67132bbc0ee1e67285492032",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132bbc0ee1e67285492033"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:56:28.690Z",
+		"created_at": "2024-10-19T03:47:08.199Z",
+		"order_number": 126,
+		"__v": 0
+	},
+	{
+		"_id": "67132bef0ee1e6728549205d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132bef0ee1e6728549205e"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:57:05.934Z",
+		"created_at": "2024-10-19T03:47:59.387Z",
+		"order_number": 127,
+		"__v": 0
+	},
+	{
+		"_id": "67132c520ee1e672854920f7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132c520ee1e672854920f8"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:58:18.878Z",
+		"created_at": "2024-10-19T03:49:38.743Z",
+		"order_number": 128,
+		"__v": 0
+	},
+	{
+		"_id": "67132c710ee1e6728549213e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132c710ee1e6728549213f"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:58:32.761Z",
+		"created_at": "2024-10-19T03:50:09.034Z",
+		"order_number": 129,
+		"__v": 0
+	},
+	{
+		"_id": "67132c820ee1e67285492163",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132c820ee1e67285492164"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:58:35.508Z",
+		"created_at": "2024-10-19T03:50:26.453Z",
+		"order_number": 130,
+		"__v": 0
+	},
+	{
+		"_id": "67132c9d0ee1e672854921ca",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132c9d0ee1e672854921cb"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:58:40.257Z",
+		"created_at": "2024-10-19T03:50:53.884Z",
+		"order_number": 131,
+		"__v": 0
+	},
+	{
+		"_id": "67132cd10ee1e672854921ef",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132cd10ee1e672854921f0"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:58:55.929Z",
+		"created_at": "2024-10-19T03:51:45.631Z",
+		"order_number": 132,
+		"__v": 0
+	},
+	{
+		"_id": "67132cff0ee1e67285492217",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132cff0ee1e67285492218"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:59:05.490Z",
+		"created_at": "2024-10-19T03:52:31.454Z",
+		"order_number": 133,
+		"__v": 0
+	},
+	{
+		"_id": "67132d780ee1e67285492242",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132d780ee1e67285492243"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T03:59:55.805Z",
+		"created_at": "2024-10-19T03:54:32.827Z",
+		"order_number": 134,
+		"__v": 0
+	},
+	{
+		"_id": "67132e3f0ee1e672854922f7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132e3f0ee1e672854922f8"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132e3f0ee1e672854922fa"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:03:16.417Z",
+		"created_at": "2024-10-19T03:57:51.804Z",
+		"order_number": 135,
+		"__v": 0
+	},
+	{
+		"_id": "67132e7d0ee1e67285492393",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132e7d0ee1e67285492394"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:03:18.770Z",
+		"created_at": "2024-10-19T03:58:53.333Z",
+		"order_number": 136,
+		"__v": 0
+	},
+	{
+		"_id": "67132eab0ee1e672854923df",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132eab0ee1e672854923e0"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:05:38.166Z",
+		"created_at": "2024-10-19T03:59:39.721Z",
+		"order_number": 137,
+		"__v": 0
+	},
+	{
+		"_id": "67132ed10ee1e67285492410",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132ed10ee1e67285492411"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:05:41.826Z",
+		"created_at": "2024-10-19T04:00:17.706Z",
+		"order_number": 138,
+		"__v": 0
+	},
+	{
+		"_id": "67132f170ee1e6728549242c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f170ee1e6728549242d"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f170ee1e6728549242f"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:07:21.235Z",
+		"created_at": "2024-10-19T04:01:27.731Z",
+		"order_number": 139,
+		"__v": 0
+	},
+	{
+		"_id": "67132f4d0ee1e67285492450",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f4d0ee1e67285492451"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:08:16.950Z",
+		"created_at": "2024-10-19T04:02:21.105Z",
+		"order_number": 140,
+		"__v": 0
+	},
+	{
+		"_id": "67132f6c0ee1e67285492475",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f6c0ee1e67285492476"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:11:09.650Z",
+		"created_at": "2024-10-19T04:02:52.133Z",
+		"order_number": 141,
+		"__v": 0
+	},
+	{
+		"_id": "67132f800ee1e6728549249d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f800ee1e6728549249e"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:12:20.288Z",
+		"created_at": "2024-10-19T04:03:12.140Z",
+		"order_number": 142,
+		"__v": 0
+	},
+	{
+		"_id": "67132f990ee1e67285492508",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132f990ee1e67285492509"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:13:57.658Z",
+		"created_at": "2024-10-19T04:03:37.289Z",
+		"order_number": 143,
+		"__v": 0
+	},
+	{
+		"_id": "67132fd80ee1e6728549252d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132fd80ee1e6728549252e"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:14:43.929Z",
+		"created_at": "2024-10-19T04:04:40.182Z",
+		"order_number": 144,
+		"__v": 0
+	},
+	{
+		"_id": "67132ffc0ee1e67285492555",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67132ffc0ee1e67285492556"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:16:08.612Z",
+		"created_at": "2024-10-19T04:05:16.800Z",
+		"order_number": 145,
+		"__v": 0
+	},
+	{
+		"_id": "6713301c0ee1e672854925c5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713301c0ee1e672854925c6"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:16:17.313Z",
+		"created_at": "2024-10-19T04:05:48.514Z",
+		"order_number": 146,
+		"__v": 0
+	},
+	{
+		"_id": "6713303d0ee1e672854925ed",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713303d0ee1e672854925ee"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:16:56.736Z",
+		"created_at": "2024-10-19T04:06:21.432Z",
+		"order_number": 147,
+		"__v": 0
+	},
+	{
+		"_id": "671330530ee1e67285492618",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671330530ee1e67285492619"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:18:01.787Z",
+		"created_at": "2024-10-19T04:06:43.670Z",
+		"order_number": 148,
+		"__v": 0
+	},
+	{
+		"_id": "671330760ee1e67285492646",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671330760ee1e67285492647"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:18:07.288Z",
+		"created_at": "2024-10-19T04:07:18.060Z",
+		"order_number": 149,
+		"__v": 0
+	},
+	{
+		"_id": "671330b90ee1e672854926c0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671330b90ee1e672854926c1"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:18:33.834Z",
+		"created_at": "2024-10-19T04:08:25.976Z",
+		"order_number": 150,
+		"__v": 0
+	},
+	{
+		"_id": "671330da0ee1e672854926eb",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671330da0ee1e672854926ec"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:22:24.120Z",
+		"created_at": "2024-10-19T04:08:58.110Z",
+		"order_number": 151,
+		"__v": 0
+	},
+	{
+		"_id": "6713324a0ee1e672854927a0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713324a0ee1e672854927a1"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:22:40.107Z",
+		"created_at": "2024-10-19T04:15:06.271Z",
+		"order_number": 152,
+		"__v": 0
+	},
+	{
+		"_id": "671332760ee1e672854927c5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671332760ee1e672854927c6"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:23:05.183Z",
+		"created_at": "2024-10-19T04:15:50.824Z",
+		"order_number": 153,
+		"__v": 0
+	},
+	{
+		"_id": "671332950ee1e6728549282c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671332950ee1e6728549282d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:23:11.326Z",
+		"created_at": "2024-10-19T04:16:21.113Z",
+		"order_number": 154,
+		"__v": 0
+	},
+	{
+		"_id": "671332b20ee1e67285492851",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671332b20ee1e67285492852"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:24:18.804Z",
+		"created_at": "2024-10-19T04:16:50.691Z",
+		"order_number": 155,
+		"__v": 0
+	},
+	{
+		"_id": "671332fd0ee1e672854928b8",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671332fd0ee1e672854928b9"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:25:10.932Z",
+		"created_at": "2024-10-19T04:18:05.163Z",
+		"order_number": 156,
+		"__v": 0
+	},
+	{
+		"_id": "671333030ee1e672854928fb",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671333030ee1e672854928fc"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:25:38.516Z",
+		"created_at": "2024-10-19T04:18:11.974Z",
+		"order_number": 157,
+		"__v": 0
+	},
+	{
+		"_id": "671333410ee1e6728549293e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671333410ee1e6728549293f"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:26:05.505Z",
+		"created_at": "2024-10-19T04:19:13.388Z",
+		"order_number": 158,
+		"__v": 0
+	},
+	{
+		"_id": "6713341f0ee1e6728549299c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713341f0ee1e6728549299d"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:28:06.335Z",
+		"created_at": "2024-10-19T04:22:55.878Z",
+		"order_number": 159,
+		"__v": 0
+	},
+	{
+		"_id": "6713342e0ee1e672854929d9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713342e0ee1e672854929da"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:28:12.483Z",
+		"created_at": "2024-10-19T04:23:10.892Z",
+		"order_number": 160,
+		"__v": 0
+	},
+	{
+		"_id": "671334580ee1e67285492a13",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671334580ee1e67285492a14"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:31:29.297Z",
+		"created_at": "2024-10-19T04:23:52.058Z",
+		"order_number": 161,
+		"__v": 0
+	},
+	{
+		"_id": "6713349d0ee1e67285492a50",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713349d0ee1e67285492a51"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:32:32.036Z",
+		"created_at": "2024-10-19T04:25:01.695Z",
+		"order_number": 162,
+		"__v": 0
+	},
+	{
+		"_id": "671334b40ee1e67285492a8d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671334b40ee1e67285492a8e"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:34:20.401Z",
+		"created_at": "2024-10-19T04:25:24.940Z",
+		"order_number": 163,
+		"__v": 0
+	},
+	{
+		"_id": "671334c80ee1e67285492aca",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671334c80ee1e67285492acb"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:35:35.936Z",
+		"created_at": "2024-10-19T04:25:44.127Z",
+		"order_number": 164,
+		"__v": 0
+	},
+	{
+		"_id": "671334e10ee1e67285492b07",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671334e10ee1e67285492b08"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:35:50.916Z",
+		"created_at": "2024-10-19T04:26:09.382Z",
+		"order_number": 165,
+		"__v": 0
+	},
+	{
+		"_id": "671335050ee1e67285492b29",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335050ee1e67285492b2a"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:36:27.998Z",
+		"created_at": "2024-10-19T04:26:45.529Z",
+		"order_number": 166,
+		"__v": 0
+	},
+	{
+		"_id": "671335590ee1e67285492b6c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335590ee1e67285492b6d"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335590ee1e67285492b6f"
+			}
+		],
+		"total": 550,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:36:42.952Z",
+		"created_at": "2024-10-19T04:28:09.717Z",
+		"order_number": 167,
+		"__v": 0
+	},
+	{
+		"_id": "6713358f0ee1e67285492bb7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713358f0ee1e67285492bb8"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:38:07.534Z",
+		"created_at": "2024-10-19T04:29:03.394Z",
+		"order_number": 168,
+		"__v": 0
+	},
+	{
+		"_id": "671335d20ee1e67285492bdf",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ抹茶",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:17.888Z",
+					"updated_at": "2024-10-19T01:52:17.888Z",
+					"deleted_at": null,
+					"_id": "671310d1f5dee9aaf60baee4",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335d20ee1e67285492be0"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335d20ee1e67285492be2"
+			}
+		],
+		"total": 700,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:39:06.309Z",
+		"created_at": "2024-10-19T04:30:10.542Z",
+		"order_number": 169,
+		"__v": 0
+	},
+	{
+		"_id": "671335f60ee1e67285492c0f",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335f60ee1e67285492c10"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671335f60ee1e67285492c12"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:39:54.845Z",
+		"created_at": "2024-10-19T04:30:46.283Z",
+		"order_number": 170,
+		"__v": 0
+	},
+	{
+		"_id": "671336e10ee1e67285492cc3",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズココア",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:27.093Z",
+					"updated_at": "2024-10-19T01:52:27.093Z",
+					"deleted_at": null,
+					"_id": "671310dbf5dee9aaf60baeec",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671336e10ee1e67285492cc4"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:40:19.627Z",
+		"created_at": "2024-10-19T04:34:41.214Z",
+		"order_number": 171,
+		"__v": 0
+	},
+	{
+		"_id": "6713370c0ee1e67285492cf1",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713370c0ee1e67285492cf2"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:41:37.247Z",
+		"created_at": "2024-10-19T04:35:24.506Z",
+		"order_number": 172,
+		"__v": 0
+	},
+	{
+		"_id": "671337480ee1e67285492d73",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337480ee1e67285492d74"
+			},
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337480ee1e67285492d76"
+			}
+		],
+		"total": 550,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:42:53.660Z",
+		"created_at": "2024-10-19T04:36:24.302Z",
+		"order_number": 173,
+		"__v": 0
+	},
+	{
+		"_id": "671337b40ee1e67285492e16",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337b40ee1e67285492e17"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671337b40ee1e67285492e19"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337b40ee1e67285492e1b"
+			}
+		],
+		"total": 800,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:50:12.544Z",
+		"created_at": "2024-10-19T04:38:12.090Z",
+		"order_number": 174,
+		"__v": 0
+	},
+	{
+		"_id": "671337df0ee1e67285492e48",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337df0ee1e67285492e49"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:51:20.006Z",
+		"created_at": "2024-10-19T04:38:55.237Z",
+		"order_number": 175,
+		"__v": 0
+	},
+	{
+		"_id": "671337f50ee1e67285492ea1",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671337f50ee1e67285492ea2"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:51:31.103Z",
+		"created_at": "2024-10-19T04:39:17.867Z",
+		"order_number": 176,
+		"__v": 0
+	},
+	{
+		"_id": "671338130ee1e67285492ecf",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671338130ee1e67285492ed0"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671338130ee1e67285492ed2"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:52:27.494Z",
+		"created_at": "2024-10-19T04:39:47.872Z",
+		"order_number": 177,
+		"__v": 0
+	},
+	{
+		"_id": "671338460ee1e67285492f57",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671338460ee1e67285492f58"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:53:05.069Z",
+		"created_at": "2024-10-19T04:40:38.257Z",
+		"order_number": 178,
+		"__v": 0
+	},
+	{
+		"_id": "6713386d0ee1e67285492f85",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713386d0ee1e67285492f86"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:53:19.794Z",
+		"created_at": "2024-10-19T04:41:17.479Z",
+		"order_number": 179,
+		"__v": 0
+	},
+	{
+		"_id": "671338920ee1e67285492fe0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671338920ee1e67285492fe1"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:53:34.055Z",
+		"created_at": "2024-10-19T04:41:54.336Z",
+		"order_number": 180,
+		"__v": 0
+	},
+	{
+		"_id": "671338ae0ee1e67285493011",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671338ae0ee1e67285493012"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:56:27.719Z",
+		"created_at": "2024-10-19T04:42:22.194Z",
+		"order_number": 181,
+		"__v": 0
+	},
+	{
+		"_id": "671339070ee1e67285493070",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671339070ee1e67285493071"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:11.972Z",
+		"created_at": "2024-10-19T04:43:51.479Z",
+		"order_number": 182,
+		"__v": 0
+	},
+	{
+		"_id": "6713392d0ee1e672854930a1",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713392d0ee1e672854930a2"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:26.092Z",
+		"created_at": "2024-10-19T04:44:29.370Z",
+		"order_number": 183,
+		"__v": 0
+	},
+	{
+		"_id": "6713397c0ee1e672854930d5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "6713397c0ee1e672854930d6"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:28.545Z",
+		"created_at": "2024-10-19T04:45:48.117Z",
+		"order_number": 184,
+		"__v": 0
+	},
+	{
+		"_id": "671339ba0ee1e67285493109",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671339ba0ee1e6728549310a"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:38.690Z",
+		"created_at": "2024-10-19T04:46:50.892Z",
+		"order_number": 185,
+		"__v": 0
+	},
+	{
+		"_id": "671339dc0ee1e6728549313d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671339dc0ee1e6728549313e"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:45.352Z",
+		"created_at": "2024-10-19T04:47:24.882Z",
+		"order_number": 186,
+		"__v": 0
+	},
+	{
+		"_id": "67133aee0ee1e672854931f1",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテト",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:34.584Z",
+					"updated_at": "2024-10-19T01:51:34.584Z",
+					"deleted_at": null,
+					"_id": "671310a6f5dee9aaf60baed0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133aee0ee1e672854931f2"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T04:57:49.950Z",
+		"created_at": "2024-10-19T04:51:58.101Z",
+		"order_number": 187,
+		"__v": 0
+	},
+	{
+		"_id": "67133b400ee1e6728549326e",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "ポテチュロズ佐藤",
+					"product_price": 350,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:23.565Z",
+					"updated_at": "2024-10-19T01:52:23.565Z",
+					"deleted_at": null,
+					"_id": "671310d7f5dee9aaf60baee8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133b400ee1e6728549326f"
+			}
+		],
+		"total": 350,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:00:15.966Z",
+		"created_at": "2024-10-19T04:53:20.115Z",
+		"order_number": 188,
+		"__v": 0
+	},
+	{
+		"_id": "67133b4b0ee1e672854932b7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133b4b0ee1e672854932b8"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:00:18.223Z",
+		"created_at": "2024-10-19T04:53:31.165Z",
+		"order_number": 189,
+		"__v": 0
+	},
+	{
+		"_id": "67133bc80ee1e67285493306",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133bc80ee1e67285493307"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67133bc80ee1e67285493309"
+			}
+		],
+		"total": 600,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:01:03.622Z",
+		"created_at": "2024-10-19T04:55:36.502Z",
+		"order_number": 190,
+		"__v": 0
+	},
+	{
+		"_id": "67133c3e0ee1e672854933c0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133c3e0ee1e672854933c1"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:02:33.321Z",
+		"created_at": "2024-10-19T04:57:34.892Z",
+		"order_number": 191,
+		"__v": 0
+	},
+	{
+		"_id": "67133dbe0ee1e67285493475",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133dbe0ee1e67285493476"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:04:55.101Z",
+		"created_at": "2024-10-19T05:03:58.496Z",
+		"order_number": 192,
+		"__v": 0
+	},
+	{
+		"_id": "67133dd30ee1e67285493485",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133dd30ee1e67285493486"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:04:57.369Z",
+		"created_at": "2024-10-19T05:04:19.152Z",
+		"order_number": 193,
+		"__v": 0
+	},
+	{
+		"_id": "67133e090ee1e672854934ad",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "67133e090ee1e672854934ae"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:06:28.810Z",
+		"created_at": "2024-10-19T05:05:13.798Z",
+		"order_number": 194,
+		"__v": 0
+	},
+	{
+		"_id": "67133e2b0ee1e672854934bd",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133e2b0ee1e672854934be"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:09:10.198Z",
+		"created_at": "2024-10-19T05:05:47.236Z",
+		"order_number": 195,
+		"__v": 0
+	},
+	{
+		"_id": "67133e4e0ee1e672854934d0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133e4e0ee1e672854934d1"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:09:27.605Z",
+		"created_at": "2024-10-19T05:06:22.751Z",
+		"order_number": 196,
+		"__v": 0
+	},
+	{
+		"_id": "67133e6b0ee1e672854934f5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133e6b0ee1e672854934f6"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:09:44.907Z",
+		"created_at": "2024-10-19T05:06:51.725Z",
+		"order_number": 197,
+		"__v": 0
+	},
+	{
+		"_id": "67133e790ee1e6728549350b",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133e790ee1e6728549350c"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:11:34.668Z",
+		"created_at": "2024-10-19T05:07:05.561Z",
+		"order_number": 198,
+		"__v": 0
+	},
+	{
+		"_id": "67133e980ee1e67285493524",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133e980ee1e67285493525"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:12:27.218Z",
+		"created_at": "2024-10-19T05:07:36.493Z",
+		"order_number": 199,
+		"__v": 0
+	},
+	{
+		"_id": "67133ecd0ee1e67285493540",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133ecd0ee1e67285493541"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:15:24.704Z",
+		"created_at": "2024-10-19T05:08:29.212Z",
+		"order_number": 200,
+		"__v": 0
+	},
+	{
+		"_id": "67133f110ee1e6728549358c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133f110ee1e6728549358d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:15:50.067Z",
+		"created_at": "2024-10-19T05:09:37.415Z",
+		"order_number": 201,
+		"__v": 0
+	},
+	{
+		"_id": "67133fc10ee1e672854935de",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133fc10ee1e672854935df"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:16:17.266Z",
+		"created_at": "2024-10-19T05:12:33.425Z",
+		"order_number": 202,
+		"__v": 0
+	},
+	{
+		"_id": "67133fd90ee1e672854935f4",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133fd90ee1e672854935f5"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:21:35.069Z",
+		"created_at": "2024-10-19T05:12:57.195Z",
+		"order_number": 203,
+		"__v": 0
+	},
+	{
+		"_id": "67133feb0ee1e6728549360d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67133feb0ee1e6728549360e"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:21:41.716Z",
+		"created_at": "2024-10-19T05:13:15.564Z",
+		"order_number": 204,
+		"__v": 0
+	},
+	{
+		"_id": "6713401f0ee1e67285493629",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713401f0ee1e6728549362a"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:21:49.540Z",
+		"created_at": "2024-10-19T05:14:07.372Z",
+		"order_number": 205,
+		"__v": 0
+	},
+	{
+		"_id": "671340a40ee1e67285493687",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671340a40ee1e67285493688"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:22:08.802Z",
+		"created_at": "2024-10-19T05:16:20.586Z",
+		"order_number": 206,
+		"__v": 0
+	},
+	{
+		"_id": "671340bb0ee1e672854936a0",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671340bb0ee1e672854936a1"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:25:45.839Z",
+		"created_at": "2024-10-19T05:16:43.048Z",
+		"order_number": 207,
+		"__v": 0
+	},
+	{
+		"_id": "671341f00ee1e672854936f2",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671341f00ee1e672854936f3"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:28:04.549Z",
+		"created_at": "2024-10-19T05:21:52.058Z",
+		"order_number": 208,
+		"__v": 0
+	},
+	{
+		"_id": "671342020ee1e67285493714",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671342020ee1e67285493715"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:28:13.999Z",
+		"created_at": "2024-10-19T05:22:10.163Z",
+		"order_number": 209,
+		"__v": 0
+	},
+	{
+		"_id": "6713424c0ee1e6728549372d",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 3,
+				"_id": "6713424c0ee1e6728549372e"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713424c0ee1e67285493730"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713424c0ee1e67285493732"
+			}
+		],
+		"total": 1000,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:33:47.619Z",
+		"created_at": "2024-10-19T05:23:24.188Z",
+		"order_number": 210,
+		"__v": 0
+	},
+	{
+		"_id": "671342860ee1e67285493750",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671342860ee1e67285493751"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:35:09.089Z",
+		"created_at": "2024-10-19T05:24:22.159Z",
+		"order_number": 211,
+		"__v": 0
+	},
+	{
+		"_id": "671343910ee1e672854937ba",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671343910ee1e672854937bb"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:36:37.039Z",
+		"created_at": "2024-10-19T05:28:49.769Z",
+		"order_number": 212,
+		"__v": 0
+	},
+	{
+		"_id": "671343b20ee1e672854937d6",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671343b20ee1e672854937d7"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:36:42.263Z",
+		"created_at": "2024-10-19T05:29:22.710Z",
+		"order_number": 213,
+		"__v": 0
+	},
+	{
+		"_id": "671344090ee1e672854937f5",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344090ee1e672854937f6"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344090ee1e672854937f8"
+			},
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344090ee1e672854937fa"
+			}
+		],
+		"total": 600,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:41:45.170Z",
+		"created_at": "2024-10-19T05:30:49.137Z",
+		"order_number": 214,
+		"__v": 0
+	},
+	{
+		"_id": "6713441c0ee1e67285493821",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "6713441c0ee1e67285493822"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:43:27.312Z",
+		"created_at": "2024-10-19T05:31:08.903Z",
+		"order_number": 215,
+		"__v": 0
+	},
+	{
+		"_id": "671344720ee1e6728549384c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344720ee1e6728549384d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:43:44.846Z",
+		"created_at": "2024-10-19T05:32:34.694Z",
+		"order_number": 216,
+		"__v": 0
+	},
+	{
+		"_id": "671344a20ee1e6728549387a",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344a20ee1e6728549387b"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:43:52.639Z",
+		"created_at": "2024-10-19T05:33:22.622Z",
+		"order_number": 217,
+		"__v": 0
+	},
+	{
+		"_id": "671344b80ee1e672854938ab",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ抹茶",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:52:13.285Z",
+					"updated_at": "2024-10-19T01:52:13.285Z",
+					"deleted_at": null,
+					"_id": "671310cdf5dee9aaf60baee0",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671344b80ee1e672854938ac"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:44:18.615Z",
+		"created_at": "2024-10-19T05:33:44.751Z",
+		"order_number": 218,
+		"__v": 0
+	},
+	{
+		"_id": "671345100ee1e6728549392c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671345100ee1e6728549392d"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671345100ee1e6728549392f"
+			}
+		],
+		"total": 800,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:50:43.224Z",
+		"created_at": "2024-10-19T05:35:12.190Z",
+		"order_number": 219,
+		"__v": 0
+	},
+	{
+		"_id": "671346420ee1e672854939a7",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 2,
+				"_id": "671346420ee1e672854939a8"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:55:02.402Z",
+		"created_at": "2024-10-19T05:40:18.657Z",
+		"order_number": 220,
+		"__v": 0
+	},
+	{
+		"_id": "671347c90ee1e67285493a4c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671347c90ee1e67285493a4d"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:55:03.965Z",
+		"created_at": "2024-10-19T05:46:49.981Z",
+		"order_number": 221,
+		"__v": 0
+	},
+	{
+		"_id": "671348990ee1e67285493a65",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671348990ee1e67285493a66"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671348990ee1e67285493a68"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T05:55:46.954Z",
+		"created_at": "2024-10-19T05:50:17.656Z",
+		"order_number": 222,
+		"__v": 0
+	},
+	{
+		"_id": "671349970ee1e67285493a9c",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671349970ee1e67285493a9d"
+			},
+			{
+				"item": {
+					"product_name": "チュロズココア",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:59.313Z",
+					"updated_at": "2024-10-19T01:51:59.313Z",
+					"deleted_at": null,
+					"_id": "671310bff5dee9aaf60baedc",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "671349970ee1e67285493a9f"
+			}
+		],
+		"total": 400,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T06:01:12.381Z",
+		"created_at": "2024-10-19T05:54:31.057Z",
+		"order_number": 223,
+		"__v": 0
+	},
+	{
+		"_id": "67134a330ee1e67285493af9",
+		"order_items": [
+			{
+				"item": {
+					"product_name": "チュロズ佐藤",
+					"product_price": 200,
+					"product_cost": 5,
+					"product_tag": ["potato"],
+					"created_at": "2024-10-19T01:51:55.345Z",
+					"updated_at": "2024-10-19T01:51:55.345Z",
+					"deleted_at": null,
+					"_id": "671310bbf5dee9aaf60baed8",
+					"__v": 0
+				},
+				"amount": 1,
+				"_id": "67134a330ee1e67285493afa"
+			}
+		],
+		"total": 200,
+		"receive": 0,
+		"paid_done": null,
+		"prep_done": null,
+		"serve_done": "2024-10-19T06:02:48.166Z",
+		"created_at": "2024-10-19T05:57:07.790Z",
+		"order_number": 224,
+		"__v": 0
+	}
+]
